@@ -2,7 +2,7 @@
 <div>
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 </div>
-<p style="color: blue;">This is a blue paragraph.</p>
+<p color="blue">This is a blue paragraph.</p>
 
 <pre style="background: red; color: green">  
 - 👋 Hi, I’m @soomtochukwu
