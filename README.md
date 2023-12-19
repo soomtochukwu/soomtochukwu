@@ -3,7 +3,7 @@
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
 </div>
 
-<pre background="red">  
+<pre background-color="red">  
 - 👋 Hi, I’m @soomtochukwu
 
 - 👀 I’m interested in web2 and web3
