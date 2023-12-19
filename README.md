@@ -1,9 +1,9 @@
 
 <div>
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="320" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 </div>
 
-<pre onload="(this) => {setTimeout(() => {this.style.color='red'; alert('heyy')}, 1000)}">  
+<pre>  
 - 👋 Hi, I’m @soomtochukwu
 
 - 👀 I’m interested in web2 and web3
