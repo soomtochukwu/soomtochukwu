@@ -1,3 +1,8 @@
+<div>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></img>
+</div>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 👋 Hi, I’m @soomtochukwu
 
 - 👀 I’m interested in web2 and web3
