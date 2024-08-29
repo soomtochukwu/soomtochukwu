@@ -15,7 +15,7 @@
 - 💞️ I’m seeking a challenging
 position with seasoned professionals and clients in a fast-paced environment
 
-- 📫 How to reach me <a href="https://x.com/xSomtochukwu">𝕏</a>
+- 📫 How to reach me <a href="https://x.com/tweetSomto">𝕏</a>
 </pre>
 
 <!---
