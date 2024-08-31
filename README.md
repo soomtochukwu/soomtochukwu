@@ -10,12 +10,14 @@
 
 - 👀 I’m interested in web2 and web3
 
-- 🌱 I’m currently learning web3
+- 🌱 I’m a practicing web3 [developer](https://www.linkedin.com/in/somtochukwu-ko/)
 
 - 💞️ I’m seeking a challenging
 position with seasoned professionals and clients in a fast-paced environment
 
-- 📫 How to reach me <a href="https://x.com/tweetSomto">𝕏</a>
+- 📫 How to reach me: 
+    - <a href="https://x.com/tweetSomto">𝕏</a>
+    - [![WhatsApp logo](https://img.icons8.com/?size=80&id=42212&format=png)](https://wa.me/2348465261759) 
 </pre>
 
 <!---
