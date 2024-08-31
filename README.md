@@ -17,7 +17,9 @@ position with seasoned professionals and clients in a fast-paced environment
 
 - 📫 How to reach me: 
     - <a href="https://x.com/tweetSomto">𝕏</a>
-    - <a href="https://wa.me/2348165261759">  <img align="right" alt="WhatsApp logo" src="https://img.icons8.com/?size=80&id=42212&format=png" width="10" height="10" /> </a>
+    - <a href="https://wa.me/2348165261759">
+        <img alt="WhatsApp logo" src="https://img.icons8.com/?size=80&id=42212&format=png" width="10" height="10" /> 
+      </a>
 </pre>
 
 <!---
