@@ -9,10 +9,10 @@
 - 👋 Hi, I’m @soomtochukwu
 
 - 👀 I’m interested in web2 and web3
+  
+- 💻 I’m a practicing web3 <a href="https://www.linkedin.com/in/somtochukwu-ko/">developer</a>
 
-- 🌱 I’m a practicing web3 [developer](https://www.linkedin.com/in/somtochukwu-ko/)
-
-- 💞️ I’m seeking a challenging
+- 🦾 I’m seeking a challenging
 position with seasoned professionals and clients in a fast-paced environment
 
 - 📫 How to reach me: 
