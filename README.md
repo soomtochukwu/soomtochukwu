@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in web2 and web3
   
-- 💻 I’m a practicing web3 <a href="https://www.linkedin.com/in/somtochukwu-ko/">developer</a>
+- 💻 I’m a practicing web3 <a href="https://somtochukwu-ko.vercel.app/">developer</a>
 
 - 🦾 I’m seeking a challenging
 position with seasoned professionals and clients in a fast-paced environment
