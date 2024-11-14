@@ -1,7 +1,7 @@
 
 <div>
-  <a href="/">
-    <img align="right" alt="myyyyyyyyyyyyyyyy" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="400" />
+  <a href="https://somtochukwu-ko.vercel.app/">
+    <img title="click me :)" align="right" alt="myyyyyyyyyyyyyyyy" src="https://somtochukwu-ko.vercel.app/portfolio.gif" width="100%" height="500" />
   </a>
 </div>
 
