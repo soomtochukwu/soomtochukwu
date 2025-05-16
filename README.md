@@ -6,9 +6,10 @@
 </div>
 
 <pre>
-  <script src="./README.js"></script>
-  <div id="pre"></div>
+  <div id="pre">
+    
 - 👋 Hi, I’m @soomtochukwu
+  </div>
 
 - 👀 I’m interested in web2 and web3
   
