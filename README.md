@@ -43,9 +43,9 @@
 
 ### 🚀 Featured Projects
 
-- 🗳️ [EduChain (2x Hack. winner)](https://cyberhack.vercel.app/) – Incentivized learning powered by AI and blockchain
-- 🧪 [Graso](https://grasoo.vercel.app/) – Making Real Estate More Accessible to All
-- 📡 [Minth](https://minth.vercel.app/) – ...Turn your fav. images into NFTs 😃
+- 🗳️ [EduChain \_\_2x Hack. winner](https://cyberhack.vercel.app/) – Incentivized learning powered by AI and blockchain
+- 🧪 [Graso \_\_1x Hack. winner](https://grasoo.vercel.app/) – Making Real Estate More Accessible to All
+- 📡 [Minth \_\_1x Hack. winner](https://minth.vercel.app/) – ...Turn your fav. images into NFTs 😃
 
 ---
 
