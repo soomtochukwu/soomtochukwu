@@ -43,9 +43,9 @@
 
 ### 🚀 Featured Projects
 
-- 🗳️ [Governator](https://github.com/soomtochukwu/governator) – Decentralized governance platform for African elections
-- 🧪 [Only Dust](https://github.com/soomtochukwu/only-dust) – [brief description of what it does]
-- 📡 [ChainEvents](https://github.com/soomtochukwu/chainevents-contracts) – [brief description]
+- 🗳️ [EduChain (2x Hack. winner)](https://cyberhack.vercel.app/) – Incentivized learning powered by AI and blockchain
+- 🧪 [Graso](https://grasoo.vercel.app/) – Making Real Estate More Accessible to All
+- 📡 [Minth](https://minth.vercel.app/) – ...Turn your fav. images into NFTs 😃
 
 ---
 
