@@ -10,7 +10,7 @@
   alt="Portfolio GIF"
   align="right"
   src="https://somtochukwu-ko.vercel.app/portfolio.gif"
-  width="350"
+  width="500"
 />
 </a>
 
