@@ -1,26 +1,59 @@
+<h1 align="center">Hi there 👋, I'm Somtochukwu</h1>
 
-<div>
-  <a href="https://somtochukwu-ko.vercel.app/">
-    <img title="click me :)" align="right" alt="myyyyyyyyyyyyyyyy" src="https://somtochukwu-ko.vercel.app/portfolio.gif" width="100%" height="500" />
-  </a>
-</div>
+<p align="center">
+  <strong>Frontend Engineer | Web3 Enthusiast | Lifelong Learner</strong>
+</p>
 
-<pre>
-- 👋 Hi, I’m @soomtochukwu
+<img 
+  title="click me :)"
+  alt="Portfolio GIF"
+  align="right"
+  src="https://somtochukwu-ko.vercel.app/portfolio.gif"
+  width="350"
+/>
 
-- 👀 I’m interested in web2 and web3
-  
-- 💻 I’m a practicing web3 <a href="https://somtochukwu-ko.vercel.app/">developer</a>
+### 💡 About Me
 
-- 🦾 I’m seeking a challenging
-position with seasoned professionals and clients in a fast-paced environment
+- 💻 I'm a passionate developer focused on building beautiful, scalable frontend interfaces.
+- 🌐 Currently diving deeper into **Web3** and **decentralized technologies**.
+- 🔭 I’m constantly learning and experimenting with **React**, **Next.js**, and **smart contracts**.
+- 🚀 I love contributing to **open source** and working on meaningful side projects.
 
-- 📫 How to reach me: 
-  - <a href="https://x.com/tweetSomto"><img alt="X Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fj1vqat9XLO4cFwOG1uFqLXYDcISiYil2w&s" width="25" height="25" /></a>
-  - <a href="https://wa.me/2348165261759"><img alt="WhatsApp Logo" src="https://cdn-icons-png.freepik.com/256/15707/15707843.png?semt=ais_hybrid" width="30" height="30" /></a>
-</pre>
 
-<!---
-soomtochukwu/soomtochukwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Languages & Tools
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Cairo](https://img.shields.io/badge/Cairo-000000?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFCC00?style=for-the-badge&logo=ethereum)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soomtochukwu&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soomtochukwu&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🗳️ [Governator](https://github.com/soomtochukwu/governator) – Decentralized governance platform for African elections  
+- 🧪 [Only Dust](https://github.com/soomtochukwu/only-dust) – [brief description of what it does]  
+- 📡 [ChainEvents](https://github.com/soomtochukwu/chainevents-contracts) – [brief description]
+
+---
+
+### 🔗 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+
+---
+
+<!-- Add a visitor counter if you want -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=soomtochukwu&color=blue) -->
