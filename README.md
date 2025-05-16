@@ -5,7 +5,8 @@
   </a>
 </div>
 
-<pre>  
+<pre>
+  <script src="./README.js"></script>
   <div id="pre"></div>
 - 👋 Hi, I’m @soomtochukwu
 
