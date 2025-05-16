@@ -6,6 +6,7 @@
 </div>
 
 <pre>  
+  <div id="pre"></div>
 - 👋 Hi, I’m @soomtochukwu
 
 - 👀 I’m interested in web2 and web3
