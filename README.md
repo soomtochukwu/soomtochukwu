@@ -4,7 +4,7 @@
   <strong>Software Developer with Solidity, Typescript/Javascript, NextJS | Lifelong Learner</strong>
 </p>
 
-<a href="https://somtochukwu-ko.vercel.app/">
+<a href="https://somtochukwu-k.vercel.app/">
 <img 
   title="click me :)"
   alt="Portfolio GIF"
