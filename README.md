@@ -43,7 +43,8 @@
 
 ### 🚀 Featured Projects
 
-- 🗳️ [EduChain \_\_2x Hack. winner](https://cyberhack.vercel.app/) – Incentivized learning powered by AI and blockchain
+- 🪴 [ObodoFarm \_\_2x Hack. winner](https://x.com/obodofarm/status/1970174362142810380) – Empowering African Farmers
+- 🗳️ [EduChain \_\_2x Hack. winner](https://cyberhack.vercel.app/) – Incentivised learning powered by AI and blockchain
 - 🧪 [Graso \_\_1x Hack. winner](https://grasoo.vercel.app/) – Making Real Estate More Accessible to All
 - 📡 [Minth \_\_1x Hack. winner](https://minth.vercel.app/) – ...Turn your fav. images into NFTs 😃
 
