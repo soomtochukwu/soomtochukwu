@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Somtochukwu</h1>
 
 <p align="center">
-  <strong>Software Developer with Solidity, Typescript/Javascript, NextJS | Lifelong Learner</strong>
+  <strong>Software Developer with SoliditY, TypescripT/JavascripT, RusT | Lifelong Learner</strong>
 </p>
 
 <a href="https://www.maziofweb3.site/">
