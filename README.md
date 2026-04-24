@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Somtochukwu</h1>
+<h1 align="center">Hi there 👋, I'm MaziOfWeb3</h1>
 
 <p align="center">
   <strong>Software Developer with SoliditY, TypescripT/JavascripT, RusT | Lifelong Learner</strong>
