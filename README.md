@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm MaziOfWeb3</h1>
 
 <p align="center">
-  <strong>Software Developer with SoliditY, TypescripT/JavascripT, RusT | Lifelong Learner</strong>
+  <strong>Software Developer with SoliditY, TypescripT/JavascripT, Rust | Lifelong Learner</strong>
 </p>
 
-<a href="https://www.maziofweb3.site/">
+<a href="https://www.maziofweb3.online/">
 <img 
   title="click me :)"
   alt="Portfolio GIF"
